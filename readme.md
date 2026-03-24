@@ -100,9 +100,7 @@ productos.json → Información para validaciones de productos
 
 👤 Autor
 
-Erik Tomas Verna
-Analista en Sistemas
-Enfoque en automatización, calidad de software y documentación técnica.
+Erik Tomas Verna ~ Analista en Sistemas
 
 ✔️ Conclusión
 
